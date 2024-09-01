@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\oumki\\Desktop\\Introduction to Computer Game Development\\Week 4\\Lab Week 4 - Activity\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DDB50613-C16D-154F-9814-E073F3C26057}|Assembly-CSharp.csproj|C:\\Users\\oumki\\Desktop\\Introduction to Computer Game Development\\Week 4\\Lab Week 4 - Activity\\assets\\scripts\\progressevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DDB50613-C16D-154F-9814-E073F3C26057}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\progressevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DDB50613-C16D-154F-9814-E073F3C26057}|Assembly-CSharp.csproj|c:\\users\\oumki\\desktop\\introduction to computer game development\\week 4\\lab week 4 - activity\\assets\\scenes\\loadassets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DDB50613-C16D-154F-9814-E073F3C26057}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\loadassets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DDB50613-C16D-154F-9814-E073F3C26057}|Assembly-CSharp.csproj|C:\\Users\\oumki\\Desktop\\Introduction to Computer Game Development\\Week 4\\Lab Week 4 - Activity\\assets\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DDB50613-C16D-154F-9814-E073F3C26057}|Assembly-CSharp.csproj|solutionrelative:assets\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +14,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "LoadAssets.cs",
               "DocumentMoniker": "C:\\Users\\oumki\\Desktop\\Introduction to Computer Game Development\\Week 4\\Lab Week 4 - Activity\\Assets\\Scenes\\LoadAssets.cs",
               "RelativeDocumentMoniker": "Assets\\Scenes\\LoadAssets.cs",
               "ToolTip": "C:\\Users\\oumki\\Desktop\\Introduction to Computer Game Development\\Week 4\\Lab Week 4 - Activity\\Assets\\Scenes\\LoadAssets.cs",
               "RelativeToolTip": "Assets\\Scenes\\LoadAssets.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-01T07:03:11.784Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProgressEvaluator.cs",
-              "DocumentMoniker": "C:\\Users\\oumki\\Desktop\\Introduction to Computer Game Development\\Week 4\\Lab Week 4 - Activity\\Assets\\Scripts\\ProgressEvaluator.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\ProgressEvaluator.cs",
-              "ToolTip": "C:\\Users\\oumki\\Desktop\\Introduction to Computer Game Development\\Week 4\\Lab Week 4 - Activity\\Assets\\Scripts\\ProgressEvaluator.cs",
-              "RelativeToolTip": "Assets\\Scripts\\ProgressEvaluator.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-01T06:48:44.048Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Test.cs",
-              "DocumentMoniker": "C:\\Users\\oumki\\Desktop\\Introduction to Computer Game Development\\Week 4\\Lab Week 4 - Activity\\Assets\\Test.cs",
-              "RelativeDocumentMoniker": "Assets\\Test.cs",
-              "ToolTip": "C:\\Users\\oumki\\Desktop\\Introduction to Computer Game Development\\Week 4\\Lab Week 4 - Activity\\Assets\\Test.cs",
-              "RelativeToolTip": "Assets\\Test.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-01T06:20:51.69Z"
             }
           ]
         }
