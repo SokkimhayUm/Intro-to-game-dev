@@ -268,6 +268,12 @@ public class ProgressEvaluator : MonoBehaviour
 
     private bool CompareLogs(int i)
     {
+        if (currentLog == null || lastLog == null)
+        {
+            UnityEngine.Debug.LogError("NullReferenceException: Either currentLog or lastLog is null.");
+            return false;  // Return false to indicate a failure in log comparison
+        }
+
         if (currentLog.Contains("PROGRESS EVALUATOR") || lastLog.Contains("PROGRESS EVALUATOR"))
             return true;
         if (!currentLog.Equals("RedPrefab(Clone):" + i) && !currentLog.Equals("BluePrefab(Clone):" + i))

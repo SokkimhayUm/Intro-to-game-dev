@@ -11,9 +11,16 @@ public class LoadAssets : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        Instantiate(redObj, new Vector3(2, 0, 0), Quaternion.identity);
-        Instantiate(blueObj, new Vector3(-2, 0, 0), Quaternion.identity);
+        GameObject redInstance = Instantiate(redObj, new Vector3(2, 0, 0), Quaternion.identity);
+        GameObject blueInstance = Instantiate(blueObj, new Vector3(-2, 0, 0), Quaternion.identity);
+
         Application.targetFrameRate = 60;
+
+        redInstance.name = "RedPrefab(Clone)";
+        blueInstance.name = "BluePrefab(Clone)";
+
+        redInstance.tag = "Red";
+        blueInstance.tag = "Blue";
     }
 
     // Update is called once per frame
